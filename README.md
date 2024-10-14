@@ -3,7 +3,9 @@
 Swift dilinin kütüphanesi olan SpriteKit ile geliştirdiğim küçük bir oyun.
 Udemy üzerinden kursunu tamamladığım [Atıl Samancıoğlu](https://github.com/atilsamancioglu) spriteKit dersi için teşşekür ederim.
 ## Ekran Görüntüleri
-<img src="/mnt/data/Simulator Screenshot - iPhone 11 FG - 2024-08-20 at 11.41.59.png" width="300"/> <img src="/mnt/data/Simulator Screenshot - iPhone 11 FG - 2024-08-20 at 11.42.13.png" width="300"/>
+
+![Angry Bird Ekran Görüntüsü](angryBirdPhoto/Simulator%20Screenshot%20-%20iPhone%2011%20FG%20-%202024-08-20%20at%2011.41.59.png)
+
 
 ## Özellikler
 Sapan Mekanikleri: Kuşu geri çekip hedeflere doğru fırlatın.
