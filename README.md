@@ -5,6 +5,7 @@ Udemy üzerinden kursunu tamamladığım [Atıl Samancıoğlu](https://github.co
 ## Ekran Görüntüleri
 
 ![Angry Bird Ekran Görüntüsü](angryBirdPhoto/Simulator%20Screenshot%20-%20iPhone%2011%20FG%20-%202024-08-20%20at%2011.41.59.png)
+![Angry Bird Ekran Görüntüsü 2](angryBirdPhoto/Simulator%20Screenshot%20-%20iPhone%2011%20FG%20-%202024-08-20%20at%2011.42.13.png)
 
 
 ## Özellikler
@@ -18,7 +19,8 @@ A small game developed with SpriteKit, the library of the Swift language.
 I would like to thank [Atıl Samancıoğlu](https://github.com/atilsamancioglu) for the spriteKit course, which I completed on Udemy.
 
 ## Screenshots
-<img src="/mnt/data/Simulator Screenshot - iPhone 11 FG - 2024-08-20 at 11.41.59.png" width="300"/> <img src="/mnt/data/Simulator Screenshot - iPhone 11 FG - 2024-08-20 at 11.42.13.png" width="300"/>
+![Angry Bird Ekran Görüntüsü](angryBirdPhoto/Simulator%20Screenshot%20-%20iPhone%2011%20FG%20-%202024-08-20%20at%2011.41.59.png)
+![Angry Bird Ekran Görüntüsü 2](angryBirdPhoto/Simulator%20Screenshot%20-%20iPhone%2011%20FG%20-%202024-08-20%20at%2011.42.13.png)
 
 ## Features
 Slingshot Mechanics: Pull the bird back and release to launch towards targets.
